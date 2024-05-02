@@ -43,5 +43,6 @@ Explore the release notes for Java 22:
 For any inquiries or assistance regarding the Java 22 new features,
 feel free to reach me at the following contact details:
 
+
 - **mGunawardhana:** [maneeshagunawardhana8@gmail.com](maneeshagunawardhana8@gmail.com)
 
