@@ -40,8 +40,6 @@ Explore the release notes for Java 22:
 
 ## **Project Contact Person ( Researcher/Associate Software Engineer )**
 
-Certainly! Here's a revised version:
-
 For any inquiries or assistance regarding the new features in Java 22, please feel free to contact me using the details provided below. If you found this information helpful, I would appreciate it if you could leave a ⭐ and share your appreciation.
 
 - **mGunawardhana:** [maneeshagunawardhana8@gmail.com](maneeshagunawardhana8@gmail.com)
